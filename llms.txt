@@ -6,6 +6,9 @@
 
 - [Get Jin AI for Your Team | AI Assistant That Prepares Repetitive Work](https://getjinai.com/): Get Jin AI, the AI assistant that spots repetitive work in email, calendar, and chat and prepares drafts for review. Compare ways to start, setup services, and answers for IT.
 - [Jin AI for Teams: Product Details, Specifications, and Q&A | getjinai](https://getjinai.com/jin-ai-for-teams/): Jin AI for Teams prepares briefs, updates, and replies before they are needed. See specifications, admin controls, privacy, and answers to common questions.
+- [Jin AI by Role and Task](https://getjinai.com/solutions/): Sales, operations, people teams, assistants, IT, leadership
+- [Services](https://getjinai.com/services/): First task selection, setup, admin briefing, results review, pilot
+- [Support](https://getjinai.com/support/): Contact, security and privacy, FAQ
 
 ## Key facts
 
