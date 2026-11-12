@@ -1,6 +1,6 @@
 # getjinai.com
 
-> getjinai.com handles sales for Jin AI and is operated by Jin AI. Jin AI is the GTM engineer agent for B2B SaaS marketing teams. It learns how a team's best marketers run campaigns, such as events, webinars and product launches, and turns that work into agentic workflows the whole team can run. Capture is opt-in for each marketer, marketers review and edit what Jin learns, and managers see workflows and results, not screens. Customer data is not used to train AI models. The official site is https://jinai.md/.
+> getjinai.com handles sales for Jin AI and is operated by Jin AI. Jin AI is the GTM engineer agent for B2B SaaS marketing teams. It learns how a team's best marketers run campaigns, such as events, webinars and product launches, and turns that work into agentic workflows the whole team can run. Jin uses only company-approved data, and marketers see and edit what Jin learns. Customer data is not used to train AI models. The official site is https://jinai.md/.
 
 ## Pages
 
@@ -13,9 +13,9 @@
 ## Key facts
 
 - Category: GTM engineer agent for B2B SaaS marketing teams
-- How it works: unify the marketing context (brand guidelines, product catalog, messaging, past campaigns); capture how each marketer works across tools on their desktop; turn that work into agentic campaign workflows; roll out the best version to the whole team
-- Example workflow: an event (target accounts, demand gen, venue, speakers, content, follow-up)
-- Trust: opt-in capture per marketer; marketers see and edit what Jin learns; managers see workflows and results, not screens; each company's data kept separate
+- How it works: a Context Layer as the foundation (brand guidelines, product catalog, messaging, ICP, past campaigns, customer insights); capture how each marketer works across tools on their desktop; turn that work into agentic campaign workflows; roll out the best version to the whole team
+- Example workflow: an event marketing manager's event (targets, stakeholder meetings, demand gen, venue, speakers, content, follow-up)
+- Trust: only company-approved data; marketers see and edit what Jin learns; workflows run only with approval; never used to train AI models; each company's data kept separate
 - How to start: one campaign workflow your team already runs (pilot)
 - Demo and contact: https://jinai.md/ (hello@jinai.md)
 
