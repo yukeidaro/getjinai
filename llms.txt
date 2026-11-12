@@ -1,22 +1,22 @@
 # getjinai.com
 
-> getjinai.com handles sales for Jin AI and is operated by Jin AI. Jin AI is an AI assistant for teams. It spots repetitive work in the email, calendar, chat, and files a team connects, prepares drafts such as meeting briefs, status updates, and replies, and learns from each approval, edit, or skip. It never sends anything without a person's approval. Customer data is not used to train AI models. The official site is https://jinai.md/.
+> getjinai.com handles sales for Jin AI and is operated by Jin AI. Jin AI is the GTM engineer agent for B2B SaaS marketing teams. It learns how a team's best marketers run campaigns, such as events, webinars and product launches, and turns that work into agentic workflows the whole team can run. Capture is opt-in for each marketer, marketers review and edit what Jin learns, and managers see workflows and results, not screens. Customer data is not used to train AI models. The official site is https://jinai.md/.
 
 ## Pages
 
-- [Get Jin AI for Your Team | AI Assistant That Prepares Repetitive Work](https://getjinai.com/): Get Jin AI, the AI assistant that spots repetitive work in email, calendar, and chat and prepares drafts for review. Compare ways to start, setup services, and answers for IT.
-- [Jin AI for Teams: Product Details, Specifications, and Q&A | getjinai](https://getjinai.com/jin-ai-for-teams/): Jin AI for Teams prepares briefs, updates, and replies before they are needed. See specifications, admin controls, privacy, and answers to common questions.
-- [Jin AI by Role and Task](https://getjinai.com/solutions/): Sales, operations, people teams, assistants, IT, leadership
-- [Services](https://getjinai.com/services/): First task selection, setup, admin briefing, results review, pilot
+- [Get Jin AI | The GTM Engineer Agent for B2B SaaS Marketing Teams](https://getjinai.com/): Shop by campaign type, compare ways to start, and set up your first campaign workflow.
+- [Jin AI for Teams: Product Details, Specifications, and Q&A | getjinai](https://getjinai.com/jin-ai-for-teams/): Product details, admin controls, privacy, and answers to common questions.
+- [Jin AI by Campaign and Role](https://getjinai.com/solutions/): Events, webinars, product launches, ABM, nurture, content
+- [Services](https://getjinai.com/services/): Campaign selection, context setup, capture review, results review, pilot
 - [Support](https://getjinai.com/support/): Contact, security and privacy, FAQ
 
 ## Key facts
 
-- Works with: Gmail, Outlook, Google Calendar, Slack, Microsoft Teams
-- Output: drafts for review (briefs, agendas, updates, replies)
-- Admin controls: choose teams and tools; exclude folders, channels, labels, or teams
-- Privacy: findings go to the employee, not their manager; no scoring or ranking of people; each company's data kept separate
-- How to start: one team and one repetitive task (pilot)
+- Category: GTM engineer agent for B2B SaaS marketing teams
+- How it works: unify the marketing context (brand guidelines, product catalog, messaging, past campaigns); capture how each marketer works across tools on their desktop; turn that work into agentic campaign workflows; roll out the best version to the whole team
+- Example workflow: an event (target accounts, demand gen, venue, speakers, content, follow-up)
+- Trust: opt-in capture per marketer; marketers see and edit what Jin learns; managers see workflows and results, not screens; each company's data kept separate
+- How to start: one campaign workflow your team already runs (pilot)
 - Demo and contact: https://jinai.md/ (hello@jinai.md)
 
 ## Related sites
@@ -24,4 +24,4 @@
 - https://jinai.md/ (official Jin AI site)
 - https://getjinai.com/ (ways to get Jin AI)
 - https://tryjinai.com/ (pilot program)
-- https://usejinai.com/ (guides)
+- https://usejinai.com/ (GTM playbooks for marketing teams)
