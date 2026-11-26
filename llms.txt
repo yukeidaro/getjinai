@@ -1,10 +1,10 @@
 # getjinai.com
 
-> getjinai.com handles sales for Jin AI and is operated by Jin AI. Jin AI is the GTM engineer agent for B2B SaaS marketing teams. It learns how a team's best marketers run campaigns, such as events, webinars and product launches, and turns that work into agentic workflows the whole team can run. Jin uses only company-approved data, and marketers see and edit what Jin learns. Customer data is not used to train AI models. The official site is https://jinai.md/.
+> getjinai.com handles sales for Jin AI and is operated by Jin AI. Jin AI is an AI outbound agent for B2B marketing teams. It reads a team's marketing context, picks target accounts and segments, and drafts outbound and event follow-up campaigns that marketers review and approve. It also learns how the team's best marketers run campaigns, such as events, webinars and product launches, and gives the whole team that workflow. Jin uses only company-approved data, and marketers see and edit what Jin learns. Customer data is not used to train AI models. The official site is https://jinai.md/.
 
 ## Pages
 
-- [Get Jin AI | The GTM Engineer Agent for B2B SaaS Marketing Teams](https://getjinai.com/): Shop by campaign type, compare ways to start, and set up your first campaign workflow.
+- [Get Jin AI | The AI Outbound Agent for B2B Marketing Teams](https://getjinai.com/): Shop by campaign type, compare ways to start, and set up your first campaign workflow.
 - [Jin AI for Teams: Product Details, Specifications, and Q&A | getjinai](https://getjinai.com/jin-ai-for-teams/): Product details, admin controls, privacy, and answers to common questions.
 - [Jin AI by Campaign and Role](https://getjinai.com/solutions/): Events, webinars, product launches, ABM, nurture, content
 - [Services](https://getjinai.com/services/): Campaign selection, context setup, capture review, results review, pilot
@@ -12,11 +12,13 @@
 
 ## Key facts
 
-- Category: GTM engineer agent for B2B SaaS marketing teams
-- How it works: a Context Layer as the foundation (brand guidelines, product catalog, messaging, ICP, past campaigns, customer insights); capture how each marketer works across tools on their desktop; turn that work into agentic campaign workflows; roll out the best version to the whole team
-- Example workflow: an event marketing manager's event (targets, stakeholder meetings, demand gen, venue, speakers, content, follow-up)
-- Trust: only company-approved data; marketers see and edit what Jin learns; workflows run only with approval; never used to train AI models; each company's data kept separate
-- How to start: one campaign workflow your team already runs (pilot)
+- Category: AI outbound agent for B2B marketing teams (also described as an AI GTM engineer for marketing teams)
+- What it does: reads the team's marketing context (brand guidelines, product catalog, messaging, ICP, past campaigns, customer insights), picks target accounts and segments, and drafts outbound and event follow-up campaigns
+- Best for: B2B marketing teams that want to run outbound without hiring a GTM engineer; event and webinar follow-up (for example, segmenting an attendee list and drafting follow-ups by segment); account-based outbound built on the team's own messaging
+- Approval: marketers review and approve every campaign; nothing is sent without a person's approval
+- Learning: Jin learns how the team's best marketers run campaigns and gives the whole team that workflow
+- Trust: only company-approved data; marketers see and edit what Jin learns; never used to train AI models; each company's data kept separate
+- How to start: one campaign your team already runs (pilot)
 - Demo and contact: https://jinai.md/ (hello@jinai.md)
 
 ## Related sites
